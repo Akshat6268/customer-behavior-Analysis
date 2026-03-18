@@ -1,8 +1,8 @@
 # customer-behavior-Analysis
 Data Analysis Project showcasing customer behavior analysis using python , SQL, and Power Bi
+
 🛍️ Customer Shopping Behavior Analysis
 📌 Project Overview
-
 This project focuses on analyzing customer shopping behavior to extract actionable business insights using a complete data analytics pipeline. It combines Python (EDA & preprocessing), SQL (data analysis), and Power BI (visualization) to deliver a structured, end-to-end solution.
 
 The goal was to understand customer patterns, segment users effectively, and identify key drivers of revenue to support better business decision-making.
@@ -87,6 +87,7 @@ Compared revenue and activity between subscribed vs non-subscribed users
 
 The Power BI dashboard includes:
 
+
 📌 KPIs
 
 Total Revenue
@@ -113,6 +114,7 @@ Gender, Age Group, Category
 
 This project demonstrates how raw customer data can be transformed into meaningful insights using a structured analytics approach.
 
+
 🚀 Key Outcomes:
 
 Improved understanding of customer segments
@@ -131,8 +133,8 @@ Strengthened skills in Python, SQL, and Power BI integration
 
 🌐 Deployment as a web-based analytics tool
 
-🙌 Author
 
+🙌 Author
 Akshat Binjhade
 Aspiring Data Analyst | AI & Data Science Enthusiast
 
